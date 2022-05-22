@@ -1,4 +1,4 @@
-this ti for fatch test
+this is for fatch test
 i am editing this in my pc
 third line is add
 one more line added for git stash
